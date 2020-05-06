@@ -1,0 +1,1 @@
+echo ‘Repito y repita se fueron de paseo, repito se ahogó, ¿quién quedó?’ | sed 's/[Rr]ep/pep/g'

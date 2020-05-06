@@ -1,0 +1,43 @@
+        Adams County 	 8.534203 	 0.245117
+       Asotin County 	 32.346460 	 0.833489
+       Benton County 	 83.656765 	 3.240120
+       Chelan County 	 22.803000 	 2.413466
+      Clallam County 	 37.095059 	 34.860355
+        Clark County 	 549.549521 	 4.265403
+     Columbia County 	 4.677663 	 0.539198
+      Cowlitz County 	 81.630717 	 2.374114
+      Douglas County 	 17.908521 	 1.523773
+        Ferry County 	 3.294041 	 2.369034
+     Franklin County 	 39.719092 	 1.813727
+     Garfield County 	 3.373443 	 1.063785
+        Grant County 	 27.861368 	 3.949070
+ Grays Harbor County 	 35.053655 	 13.825952
+       Island County 	 343.319100 	 59.714330
+    Jefferson County 	 14.305242 	 16.912600
+         King County 	 817.027902 	 7.824775
+       Kitsap County 	 585.824684 	 30.038164
+     Kittitas County 	 14.522961 	 1.539998
+    Klickitat County 	 10.233554 	 1.670019
+        Lewis County 	 28.492632 	 1.175157
+      Lincoln County 	 4.406350 	 1.218522
+        Mason County 	 51.406780 	 8.560174
+     Okanogan County 	 7.510151 	 0.885956
+      Pacific County 	 22.491613 	 23.745188
+ Pend Oreille County 	 8.378384 	 1.757500
+       Pierce County 	 417.425592 	 7.062314
+     San Juan County 	 80.476789 	 71.835703
+       Skagit County 	 59.349102 	 9.650242
+     Skamania County 	 5.959769 	 1.628401
+    Snohomish County 	 290.094109 	 4.887521
+      Spokane County 	 236.975233 	 0.959719
+      Stevens County 	 16.166727 	 2.453712
+     Thurston County 	 285.212236 	 6.026059
+    Wahkiakum County 	 14.471692 	 7.830758
+  Walla Walla County 	 43.431378 	 2.212045
+      Whatcom County 	 78.703297 	 15.339019
+      Whitman County 	 18.866614 	 0.837160
+       Yakima County 	 51.808446 	 0.356711
+Mayor densidad de población: King County con 817.027902 hab/millaˆ2
+Menor densidad de población: Ferry County con 3.294041 hab/millaˆ2
+Mayor porcentaje de agua: San Juan County con 71.835703 
+Menor porcentaje de agua: Adams County con 0.245117 

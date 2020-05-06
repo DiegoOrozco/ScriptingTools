@@ -1,0 +1,1 @@
+sed 's/www.*.[com|net]/<a href=&>&<\/a><br\/>/' linksVagabundos.html > resultado.html

@@ -1,0 +1,1 @@
+sed '3,5s/.com/.org/' linksVagabundos.html > temp.txt

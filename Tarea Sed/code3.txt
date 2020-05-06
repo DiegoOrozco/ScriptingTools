@@ -1,0 +1,5 @@
+#!/bin/sh
+
+sed '3,5s/.com/.org/' linksVagabundos.html > temp.txt
+
+sed 's/www.*.[org|net]/<a href=&>&<\/a><br\/>/' temp.txt > resultado3.html

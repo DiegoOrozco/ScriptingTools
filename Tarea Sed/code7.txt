@@ -1,0 +1,1 @@
+sed '/B5.*/w' estudiantes.txt > b5.txt | sed '/B6.*/w' estudiantes.txt > b6.txt
